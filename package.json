@@ -1,0 +1,20 @@
+{
+  "name": "renamer",
+  "version": "1.0.0",
+  "description": "Um simples renomeador rápido de arquivos",
+  "main": "main.js",
+  "devDependencies": {
+    "@electron-forge/cli": "^7.11.2",
+    "@electron-forge/maker-squirrel": "^7.11.2",
+    "electron": "^44.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "make": "electron-forge make"
+  },
+  "keywords": [],
+  "author": "IsuLeth",
+  "license": "ISC",
+  "type": "module"
+}

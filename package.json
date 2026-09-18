@@ -1,6 +1,7 @@
 {
   "name": "renamer",
   "version": "1.0.0",
+  "productName": "Renamer",
   "description": "Um simples renomeador rápido de arquivos",
   "main": "main.js",
   "devDependencies": {
